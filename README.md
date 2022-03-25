@@ -1,2 +1,2 @@
-# Linux-Learning:学习Ubuntu系统操作
-## 系统名称：Ubuntu 20.04.2 LTS
+# Linux-Learning:linux 一些常使用的命令
+## 系统名称：Ubuntu 18.04.6
